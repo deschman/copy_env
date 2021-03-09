@@ -26,7 +26,7 @@ setup(name='copy_env',
           'License :: OSI Approved :: GNU General Public License v3 (GPLv3)'],
       python_requires='~=3.8',
       # TODO: find version dependancies for all of these
-      install_requires=['os', 'sys', 'argparse', 'pytest-virtualenv'],
+      install_requires=['pytest', 'pytest-virtualenv'],
       description=short_desc,
       long_description=long_desc,
       long_description_content_type='text/markdown',

@@ -5,7 +5,3 @@ __pycache__/
 # Spyder project settings
 .spyderproject
 .spyproject
-
-# Dist files
-dist/
-*.egg-info/
