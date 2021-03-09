@@ -8,4 +8,4 @@ __pycache__/
 
 # Dist files
 dist/
-*egg-info/
+*.egg-info/
